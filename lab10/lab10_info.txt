@@ -1,0 +1,2 @@
+HEROKU LINK = https://ce888-lab10-deployment-heartd.herokuapp.com/
+LAB 10 REPO= https://github.com/harshad-leo/CE888-LAB10
